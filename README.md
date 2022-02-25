@@ -15,9 +15,6 @@
 </a>
 </p>
 
-## 📄 Certifications
-
-
 ## Connect with me
 <p align="left">
   
