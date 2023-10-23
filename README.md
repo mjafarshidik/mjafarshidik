@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
 <h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm Muhammad Jafar Shidik, Android Engineer at HelloBill POS.</h3>
+<h3 align="center">I'm Muhammad Jafar Shidik, Android Engineer at HelloBill POS (OttoDigital Group).</h3>
 
 ## 🚀 About Me
 - 🔭 I am a fresh graduate majoring in Computer Science from [Universitas Komputer Indonesia](https://www.unikom.ac.id/).
